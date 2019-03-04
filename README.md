@@ -5,7 +5,7 @@ Personal Page for Users
 
 ### screenshot
 ________________
-![](https://raw.githubusercontent.com/tariksune/personalPage/master/personalPage/screenshot.png)
+![](https://raw.githubusercontent.com/tariksune/personalPage/master/screenshot.png)
 
 ### contact
 ________________
